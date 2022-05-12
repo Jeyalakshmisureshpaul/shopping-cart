@@ -1,0 +1,36 @@
+.division{
+  
+  height: 15em;
+  background-color: #1A191C;
+}
+.division1{
+  
+  height: 8em;
+  background-color: #1A191C;
+}
+.font{
+  font-size: 4em;
+}
+.img{
+  height: 250px;
+  width: 250px;
+  background-color: gray;
+ 
+}
+.stars{
+  color: gold;
+}
+.second-txt {
+  position: absolute;
+  top: 17px;
+  left: 220px;
+  background-color: black;
+  color: white;
+  border-radius: 4px;
+}
+.gfg {
+  position: relative;
+}
+.empty{
+  height: 5em;
+}
